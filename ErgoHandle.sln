@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErgoHandle.Abstractions", "ErgoHandle.Abstractions\ErgoHandle.Abstractions.csproj", "{853236E9-C9F5-48B6-B873-25ECDD05F59E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErgoHandle.BurnToken", "ErgoHandle.BurnToken\ErgoHandle.BurnToken.csproj", "{27668B00-4125-483C-94B2-7BF332AD6884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErgoHandle.Core", "ErgoHandle.Core\ErgoHandle.Core.csproj", "{F76E1B61-2710-4004-9227-8E02294BD970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErgoHandle.MintToken", "ErgoHandle.MintToken\ErgoHandle.MintToken.csproj", "{C4B7FA3A-288B-4BC0-8DD5-7A1ED4C3DDE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErgoHandle.ResolveTokenNameToAddress", "ErgoHandle.ResolveTokenNameToAddress\ErgoHandle.ResolveTokenNameToAddress.csproj", "{99211942-4829-43E3-B7CC-203F40F608DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{853236E9-C9F5-48B6-B873-25ECDD05F59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853236E9-C9F5-48B6-B873-25ECDD05F59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853236E9-C9F5-48B6-B873-25ECDD05F59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853236E9-C9F5-48B6-B873-25ECDD05F59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27668B00-4125-483C-94B2-7BF332AD6884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27668B00-4125-483C-94B2-7BF332AD6884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27668B00-4125-483C-94B2-7BF332AD6884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27668B00-4125-483C-94B2-7BF332AD6884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76E1B61-2710-4004-9227-8E02294BD970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76E1B61-2710-4004-9227-8E02294BD970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76E1B61-2710-4004-9227-8E02294BD970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76E1B61-2710-4004-9227-8E02294BD970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B7FA3A-288B-4BC0-8DD5-7A1ED4C3DDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B7FA3A-288B-4BC0-8DD5-7A1ED4C3DDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B7FA3A-288B-4BC0-8DD5-7A1ED4C3DDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B7FA3A-288B-4BC0-8DD5-7A1ED4C3DDE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99211942-4829-43E3-B7CC-203F40F608DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99211942-4829-43E3-B7CC-203F40F608DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99211942-4829-43E3-B7CC-203F40F608DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99211942-4829-43E3-B7CC-203F40F608DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+{
+  "nodeUrl": "http://127.0.0.1:9052/",
+  "apiKey": "",
+  "tokenName": "demo_token",
+  "tokenAmount": 1,
+  "tokenDecimals": 0,
+  "tokenDescription": "A token minted for demo purposes",
+  "receiverAddress": "3WwM8LKw18msCLqzEaGNAaRgS4FqFQka1vsUCWjNtvdM9UTGSAuy"
+}

@@ -1,0 +1,5 @@
+.vs
+obj/
+bin/
+# deprecated and in the process of porting some code from here to Core lib
+ErgoHandle.Abstractions/*

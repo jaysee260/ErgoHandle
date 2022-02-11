@@ -1,0 +1,10 @@
+{
+  "nodeUrl": "http://127.0.0.1:9052/",
+  "apiKey": "",
+  "tokensToBurn": [
+    {
+      "tokenId": "8cfcc93de7f8de8836b6e8e381fba8699803164643cfc710e10325fe826454ee",
+      "tokenAmount": 1
+    }
+  ]
+}
