@@ -11,9 +11,10 @@ var config = new ConfigurationBuilder()
 
 var tokenName = config["tokenName"];
 var mintAddress = config["mintAddress"];
+var networkType = config["networkType"] == "mainnet" ? NetworkType.Mainnet : NetworkType.Testnet;
 var tokenResolver = new TokenResolver(
     mintAddress,
-    new TokenValidator(new ErgoExplorerClient(NetworkType.Testnet))
+    new TokenValidator(new ErgoExplorerClient(networkType))
 );
 
 var startTime = DateTime.UtcNow;

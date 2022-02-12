@@ -1,4 +1,3 @@
 {
-  "tokenName": "demo_token",
-  "mintAddress": "3WwBpgxoiMKoHrk67HcquMUdGWKovAynL8tUjZWuFp9fjcbussTr"
+  "networkType": "testnet",
 }
